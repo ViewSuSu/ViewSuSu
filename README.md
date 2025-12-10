@@ -11,5 +11,3 @@ I’m passionate about exploring and mastering:
 - **BIM-related technologies** 📐  
 
 With a strong interest in architecture–engineering workflows and digital construction, I enjoy building tools, improving workflows, and diving deep into complex technical challenges.
-
-Feel free to connect if you share similar interests or want to collaborate! 🤝
