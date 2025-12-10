@@ -1,16 +1,15 @@
-## Hi there 👋
+# About the Author
 
-<!--
-**ViewSuSu/ViewSuSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 **Hi there!**
 
-Here are some ideas to get you started:
+I'm a software development engineer from **China** 🇨🇳 specializing in **Building Information Modeling (BIM)** 🏗️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about exploring and mastering:
+
+- **C#** ⚙️  
+- **WPF** 🖥️  
+- **BIM-related technologies** 📐  
+
+With a strong interest in architecture–engineering workflows and digital construction, I enjoy building tools, improving workflows, and diving deep into complex technical challenges.
+
+Feel free to connect if you share similar interests or want to collaborate! 🤝
