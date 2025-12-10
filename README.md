@@ -1,5 +1,3 @@
-# About the Author
-
 👋 **Hi there!**
 
 I'm a software development engineer from **China** 🇨🇳 specializing in **Building Information Modeling (BIM)** 🏗️.
