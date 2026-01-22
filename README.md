@@ -5,8 +5,8 @@
 主要工作和兴趣集中在：
 
 - **C# / .NET** ⚙️  
-- **WPF 桌面应用开发** 🖥️  
-- **BIM 工具与工程流程数字化** 📐  
+- **桌面应用开发** 🖥️  
+- **.Net** 📐  
 
 喜欢通过编写工具、整理架构和优化流程，让复杂的工程工作变得更高效、更可维护。
 
@@ -19,7 +19,7 @@ I'm a software engineer from **China 🇨🇳**
 My work and interests mainly include:
 
 - **C# / .NET** ⚙️  
-- **WPF desktop application development** 🖥️  
-- **BIM tools and digital workflows in AEC** 📐  
+- **desktop application development** 🖥️  
+- **.Net** 📐  
 
 improving software structure, and turning complex requirements into maintainable solutions.
