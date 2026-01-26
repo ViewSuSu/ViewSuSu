@@ -6,7 +6,6 @@
 
 - **C# / .NET** ⚙️  
 - **桌面应用开发** 🖥️  
-- **.Net** 📐  
 
 喜欢通过编写工具、整理架构和优化流程，让复杂的工程工作变得更高效、更可维护。
 
@@ -20,6 +19,5 @@ My work and interests mainly include:
 
 - **C# / .NET** ⚙️  
 - **desktop application development** 🖥️  
-- **.Net** 📐  
 
 improving software structure, and turning complex requirements into maintainable solutions.
